@@ -1,2 +1,2 @@
 # uglygideon
-AI isnt real.
+Fake AI 
