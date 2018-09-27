@@ -9,3 +9,8 @@ Fake AI
  ```
  
 # Run 
+
+```
+cd uglygideon/
+python letthisbefinalforgodssake.py
+```
