@@ -5,6 +5,6 @@ Fake AI
  git clone https://github.com/Valodim/python-pulseaudio.git
  cd python-pulseaudio/
  python setup.py build
- python setup.py install'
+ python setup.py install`
  
 # Run 
