@@ -1,1 +1,2 @@
 # uglygideon
+AI isnt real.
