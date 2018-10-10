@@ -9,9 +9,3 @@ Fake AI
  python setup.py install
  ```
  
-# Run 
-
-```
-cd uglygideon/
-python letthisbefinalforgodssake.py
-```
